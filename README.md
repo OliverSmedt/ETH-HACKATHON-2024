@@ -1,4 +1,6 @@
-# ETH-HACKATHON-2024
+# ETH-HACKATHON-2024 submission
+By Oliver, Lenny, Hugo and Ghalia
+
 
 Installation instructions. In this example we use python3's venv. Feel free to use conda or any other package manager of your choice.
 
